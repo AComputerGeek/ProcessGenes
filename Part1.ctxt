@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\r\n\ \r\n\ @author\:\ Amir\ Armion\ \r\n\ \r\n\ @version\:\ V.01\r\n\ \r\n
+comment1.params=mainDna
+comment1.target=java.lang.String\ findGene(java.lang.String)
+comment2.params=mainDna\ startCodon\ stopCodonPattern
+comment2.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment3.params=mainDna
+comment3.target=edu.duke.StorageResource\ getAllGenes(java.lang.String)
+comment4.params=
+comment4.target=void\ testFindStopCodon()
+comment5.params=
+comment5.target=void\ testGetAllGenes()
+numComments=6
